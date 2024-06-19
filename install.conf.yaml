@@ -8,6 +8,7 @@
     ~/.config/btop: btop
     ~/.zshrc: zshrc
     ~/.zprofile: zprofile
+    ~/.bashrc: bashrc
 
 - create:
     - ~/.vim/undo-history
