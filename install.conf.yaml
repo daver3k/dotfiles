@@ -9,6 +9,7 @@
     ~/.zshrc: zshrc
     ~/.zprofile: zprofile
     ~/.bashrc: bashrc
+    ~/.alias: alias
 
 - create:
     - ~/.vim/undo-history
