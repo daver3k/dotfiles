@@ -10,6 +10,7 @@
     ~/.zprofile: zprofile
     ~/.bashrc: bashrc
     ~/.alias: alias
+    ~/.tmux.conf: tmux.conf
 
 - create:
     - ~/.vim/undo-history
