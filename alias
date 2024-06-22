@@ -1,5 +1,5 @@
 # old habits die hard, let me type "vi" instead of "vim"
-alias vi="vim"
+alias vi="nvim"
 
 # ls hijinks, trying to join the modern world
 alias ls='ls --color=auto'
